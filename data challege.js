@@ -78,4 +78,4 @@ for (let fellow of team) {
     }
 }
 
-console.log("Highest Scorer:", highest);
+console.log("Highest Scorer:", highest);"Add data manipulation challenges with approach comments
